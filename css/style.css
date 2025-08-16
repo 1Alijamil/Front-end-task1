@@ -1,0 +1,72 @@
+body{
+    background-color: #cecbf7;
+    width: 50%;
+    margin: auto;
+}
+.M body{
+    background-color: #de8787;
+}
+header>h1{
+    /* border-left:solid 2px yellow ; */
+    padding-right: 10px;
+    color: blue;
+    width: auto;
+    text-align: center;
+}
+.indx h3{
+     border-left:solid 5px #ff8800 ; 
+     padding-left: 10px;
+
+}
+.science h3{
+    width: fit-content;
+     border-bottom:dotted 5px #ff00d4 ; 
+     padding-left: 10px;
+
+}
+.subject h3{
+    width: fit-content;    
+    border-bottom:dashed  5px #ff0077 ; 
+     padding-left: 10px;
+
+}
+.recourses h3{
+    border-left:solid 5px #ffff00 ; 
+     padding-left: 10px;
+
+
+}
+
+.math h3{
+    width: fit-content;
+     border-bottom:solid 5px rgb(0, 255, 234) ; 
+     padding-left: 10px;
+
+}
+h5{
+    color: #05a3a3;
+}
+section{
+    /* border: 2px solid;    */
+    border-block-start: 10px solid pink;
+    padding: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+/* 
+div{
+     border-block-start: 10px solid #3212c2;
+    padding: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+} */
+ footer{
+    background-color: #ff8800;
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 20px;
+
+     border-block-start: solid pink thin thick;
+    /* border-block-width: thin thick; */
+
+ }

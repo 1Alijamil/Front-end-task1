@@ -62,11 +62,15 @@ div{
 } */
  footer{
     background-color: #ff8800;
-    text-align: center;
     border-top-left-radius: 30px;
     border-bottom-right-radius: 20px;
 
      border-block-start: solid pink thin thick;
     /* border-block-width: thin thick; */
 
+ }
+ footer nav a{
+    color: #016817;
+    text-decoration: none;
+    
  }
